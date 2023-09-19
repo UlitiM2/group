@@ -8,6 +8,8 @@
 <img width="547" alt="photo1695137667" src="https://github.com/UlitiM2/group/assets/113083737/49e671f4-749d-4965-98ba-ea2980720083">
 
 > После вводим команду для отправки этого файла на компьютер C в папку "1". На рисунке видно, что файл находится в папке 1 компьютера C.
+> <img width="727" alt="Снимок экрана 2023-09-16 в 19 31 02" src="https://github.com/UlitiM2/group/assets/113083737/6116da3b-3934-400f-b43f-c81b9f6cc096">
+
 > <img width="727" alt="Снимок экрана 2023-09-16 в 19 31 02" src="https://github.com/UlitiM2/group/assets/113083737/1d5b65f6-48b7-43c2-ba66-805c93ff5b49">
 > <img width="312" alt="Снимок экрана 2023-09-16 в 19 31 41" src="https://github.com/UlitiM2/group/assets/113083737/5c7b1709-f31b-47ab-96ab-b460a30936aa">
 
