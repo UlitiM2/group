@@ -16,5 +16,4 @@
 <img width="580" alt="Снимок экрана 2023-09-19 в 19 25 16" src="https://github.com/UlitiM2/group/assets/113083737/e8f64edf-ecdd-4e21-860b-299cd7b6ca50">
 
 <img width="723" alt="Снимок экрана 2023-09-16 в 19 36 21" src="https://github.com/UlitiM2/group/assets/113083737/7fe2f560-7f42-4033-837f-8ee274bba5ee">
-
 Работа со звездочкой так же выполнена.
