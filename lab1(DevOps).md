@@ -2,7 +2,8 @@
 > Создаем текстовый файл labfile.txt. В настройках mac, в "общем доступе" включаем "удаленный вход" на каждом ноутбуке.
 <img width="547" alt="Снимок экрана 2023-09-16 в 19 33 17" src="https://github.com/UlitiM2/group/assets/113083737/836662f8-6c9b-4ccd-bf6b-9223bf1d05fd">
 > Подключаемся с одного ноутбука(A) к другим, используя пароль. После подключения вводим команду, чтобы скопировать файл labfile.txt c компьютера B.
-![photo1695137667](https://github.com/UlitiM2/group/assets/113083737/a1d0f3f0-fcb8-4e57-be14-be3ba6deabc2)
+img width="547" alt="photo1695137667" src="https://github.com/UlitiM2/group/assets/113083737/a293832a-9247-4af6-afe6-3b2b0fc97377">
+
 
 
 > 
