@@ -10,10 +10,11 @@
 <img width="727" alt="Снимок экрана 2023-09-16 в 19 31 02" src="https://github.com/UlitiM2/group/assets/113083737/1d5b65f6-48b7-43c2-ba66-805c93ff5b49">
 <img width="312" alt="Снимок экрана 2023-09-16 в 19 31 41" src="https://github.com/UlitiM2/group/assets/113083737/5c7b1709-f31b-47ab-96ab-b460a30936aa">  
 Таким образом, работы выполнена \
-Задание со звездочкой:
+Задание со звездочкой: \
 Для задания используем labfile1.txt
 Подключаемся при помощи ключей и выполняем работу
 <img width="580" alt="Снимок экрана 2023-09-19 в 19 25 16" src="https://github.com/UlitiM2/group/assets/113083737/e8f64edf-ecdd-4e21-860b-299cd7b6ca50">
 
-<img width="723" alt="Снимок экрана 2023-09-16 в 19 36 21" src="https://github.com/UlitiM2/group/assets/113083737/7fe2f560-7f42-4033-837f-8ee274bba5ee">
+<img width="723" alt="Снимок экрана 2023-09-16 в 19 36 21" src="https://github.com/UlitiM2/group/assets/113083737/7fe2f560-7f42-4033-837f-8ee274bba5ee"> \
+
 Работа со звездочкой так же выполнена.
