@@ -15,3 +15,4 @@
 ## Начальные данные: 
 ![Alt text](base.PNG)
 ### Cервисы Microsoft Azure и их аналоги среди Yandex Cloud Service:
+<< В процессе >>
